@@ -1,0 +1,32 @@
+{
+  "course_id": "ICB-P04",
+  "repository": "icb-p04-visual-design-systems-badges",
+  "repository_url": "https://github.com/ICoBC/icb-p04-visual-design-systems-badges",
+  "title": "Visual Design Systems for Badges",
+  "subtitle": "Badge images that carry meaning consistently across a portfolio.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Credential design",
+  "level": "2",
+  "level_name": "Operate",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-CRDS-L2-A",
+  "badge_name": "Visual Design Systems for Badges (Ability, L2)",
+  "hours": "4",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p04/",
+  "parts": [
+    "About this course",
+    "What images can and cannot carry",
+    "A visual taxonomy",
+    "Accessibility",
+    "Production and governance",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 17
+}
